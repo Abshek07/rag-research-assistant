@@ -1,0 +1,3 @@
+ERROR: Port 3000 already in use
+Build failed due to missing environment variable DB_HOST
+Container crashed due to out of memory

@@ -39,3 +39,4 @@ print("\nTop relevant chunks:\n")
 for doc in docs:
     print(doc.page_content[:500])
     print("\n------------------\n")
+    
