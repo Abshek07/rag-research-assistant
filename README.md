@@ -110,7 +110,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Abhishekgouda Patil**
+**Abhishekagouda Patil**
 B.Tech Computer Science
 
 ---
